@@ -1,7 +1,8 @@
 # bitbucket-docker
 Container image for building any version of Bitbucket server.
 
-[![Docker Repository on Quay](https://quay.io/repository/cloudflavor/bitbucket/status "Docker Repository on Quay")](https://quay.io/repository/cloudflavor/bitbucket)
+[![Docker Repository on Quay](https://quay.io/repository/cloudflavor/bitbucket/status "Docker Repository on Quay")](https://quay.io/repository/cloudflavor/bitbucket)  
+
 Non-official container image for running any version of Bitbucket inside a container.  
 This is intended to work on Kubernetes.  
 
